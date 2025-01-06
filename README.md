@@ -4,8 +4,10 @@ An AI-powered Snake game built using **Python**, **Pygame**, and **PyTorch**. Th
 
 ---
 
-## 🔗 Live Demo (Optional Section)
-[View Gameplay Video](#)  
+## 🎥 Demo Video
+Watch a quick demo of the AI Snake Game in action:  
+🔗 [Click here to watch the video](https://vimeo.com/1044197387?share=copy#t=0)
+
 
 ---
 
@@ -29,10 +31,12 @@ An AI-powered Snake game built using **Python**, **Pygame**, and **PyTorch**. Th
 ## 📸 Screenshots
 
 ### Game Interface
-![Snake Game Screenshot](path/to/gameplay-image.png)
+![Snake Game Screenshot](https://github.com/user-attachments/assets/25796937-1ec0-4190-98ee-690de7baa8c5)
+
 
 ### Training Graph
-![Training Graph Screenshot](path/to/graph-image.png)
+![Training Graph Screenshot](https://github.com/user-attachments/assets/56eac59c-7303-43b6-9c3e-38cf4df7e1da)
+
 
 ---
 
